@@ -1,6 +1,8 @@
-### Hi there 👋
-
-<!--
+<div id="header" align="center">
+    <img src="trabajando.gif" width="200"/>
+    <h1 align="center">Hello,😎 I'm Josue, a front-end web .developer.</h1>
+    <h3 align="center">I am a passionate web developer specialized in creating websites. Welcome! Feel free to make yourself comfortable and take a look at all my projects.</h3>
+</div>
 **josue1420/josue1420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
