@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="trabajando.gif" width="200"/>
+    <img src="https://www.google.com.ar/search?q=gif+images+programacion&tbm=isch&chips=q:gif+programacion,g_1:software:gRj3sGHqvDY%3D&hl=es-419&sa=X&ved=2ahUKEwisv8SS5aL_AhW1kZUCHbYCDeAQ4lYoAnoECAEQKQ&biw=1079&bih=494#imgrc=UcKz5PYk_3XqdM" width="200"/>
     <h1 align="center">Hello,😎 I'm Josue, a front-end web .developer.</h1>
     <h3 align="center">I am a passionate web developer specialized in creating websites. Welcome! Feel free to make yourself comfortable and take a look at all my projects.</h3>
 </div>
