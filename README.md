@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <img src="https://i.gifer.com/AjA6.gif" width="200"/>
-    <h1 align="center">Hello,😎 I'm Josue, a Front-End Web Developer.</h1>
+    <h1 align="center">Hello,😎 I'm Josue, a Full Stack Developer.</h1>
     <h3 align="center">I am a passionate web developer specialized in creating websites. Welcome! Feel free to make yourself comfortable and take a look at all my projects.</h3>
 </div>
 
